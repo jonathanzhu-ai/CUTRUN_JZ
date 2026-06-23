@@ -1,0 +1,7 @@
+# SLURM job logs
+slurm-*.out
+
+# Large downloaded / built artifacts (recreated by download*.sh and build.sh)
+src/
+yq/
+index/
